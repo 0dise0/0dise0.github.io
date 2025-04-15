@@ -57,8 +57,11 @@ EL objetivo principal consiste en aumentar las ventas de nuestra empresa que ven
 
 Poder crear diagramas de embudo nos permite conocer el proceso por el cual las personas pasan hasta realizar la compra y saber que porcentaje de estas se quedaron en diferentes etapas, esto nos ayuda a ver el comportamiento de los clientes.
 
-## Proyecto
+[Visita mi proyecto](https://github.com/0dise0/Comportamiento-de-usuarios-en-aplicaciones/tree/main)
+
+## Patrones en las preferencias de los pasajeros para una empresa de viajes compartidos
 ### Descripción
+
 
 
 
