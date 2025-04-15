@@ -11,6 +11,8 @@ Con formación en el área de la salud, con conocimientos en nutrición y área 
 
 Experiencia en el uso de herramientas como SQL, Python y Tableau para transformar datos complejos en información clara, útil y accionable que respalde la toma de decisiones estratégicas. Capacidad demostrada para identificar patrones, generar informes precisos y diseñar visualizaciones efectivas que impulsen mejoras operativas y optimicen procesos. Enfoque analítico, pensamiento crítico y compromiso con la calidad de los datos y la mejora continua.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## Habilidades blandas
 
 Resolución de problemas | 
