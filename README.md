@@ -13,7 +13,13 @@ Experiencia en el uso de herramientas como SQL, Python y Tableau para transforma
 
 ## Habilidades blandas
 
-Resolución de problemas | Trabajo en equipo | Pensamiento crítico | Adaptabilidad | Automatización de Procesos | Proactividad | Comunicación efectiva |
+Resolución de problemas | 
+Trabajo en equipo | 
+Pensamiento crítico | 
+Adaptabilidad | 
+Automatización de Procesos | 
+Proactividad | 
+Comunicación efectiva |
 
 
 # Proyectos seleccionados
