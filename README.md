@@ -36,8 +36,15 @@ Las tres principales tendencias de forma descendente son Autos y vehículos, Com
 
 ![Texto alternativo](assets/images/pastel.PNG)
 
+Las regiones presentes en nuestros datos como primer país liderando las tendencias son Estados Unidos seguido de Francia, Rusia, India y Japón.
+
+![Texto alternativo](assets/images/ultimo.PNG)
 
 Por último, si quisiéramos conocer qué categorías de videos estuvieron en tendencia en un período de tiempo como una semana, gracias a las herramientas de automatización podemos conocer esto.
+Como podemos observar el entretenimiento, la música, la comedia y los blogs, son categorías releventes para la mercadotecnia en la última semana de nuestros datos.
+
+Las herramientas como Tableau son fundamentales para transformar datos en información visualmente comprensible y accionable. Facilitan la creación de gráficos, paneles interactivos y análisis en tiempo real, lo que permite a las organizaciones tomar decisiones informadas basadas en datos. Además, son útiles para identificar patrones, optimizar procesos y comunicar hallazgos de manera efectiva.
+
 
 [Visita mi proyecto](https://github.com/0dise0/Tendencia-de-videos-Dashboard-Tableau)
 
