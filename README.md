@@ -48,9 +48,14 @@ Las herramientas como Tableau son fundamentales para transformar datos en inform
 
 [Visita mi proyecto](https://github.com/0dise0/Tendencia-de-videos-Dashboard-Tableau)
 
-## Proyecto
+## Análisis del comportamiento de usuarios en aplicaciones
 ### Descripción
 
+EL objetivo principal consiste en aumentar las ventas de nuestra empresa que vende productos alimenticios, esto lo podremos lograr al analizar los datos que obtuvimos de la realización de un test A/A/B que consiste en comprobar si los cambios realizados en la aplicación pueden mejorar las ventas. Analizando nuestros datos podremos llegar a concluir si los cambios tuvieron una relevancia o no en las ventas, por lo que debemos explorar nuestros datos y limpiarlos de posibles errores que puedan comprometer nuestro análisis.
+
+![Texto alternativo](assets/images/embudo.png)
+
+Poder crear diagramas de embudo nos permite conocer el proceso por el cual las personas pasan hasta realizar la compra y saber que porcentaje de estas se quedaron en diferentes etapas, esto nos ayuda a ver el comportamiento de los clientes.
 
 ## Proyecto
 ### Descripción
