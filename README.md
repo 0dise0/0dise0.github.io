@@ -32,6 +32,10 @@ Utilizando un tablero podemos responder preguntas importantes para nuestra agenc
 
 ![Texto alternativo](assets/images/tablue.png)
 
+Las tres principales tendencias de forma descendente son Autos y vehículos, Comedia y Educación.
+
+![Texto alternativo](assets/images/pastel.PNG)
+
 
 Por último, si quisiéramos conocer qué categorías de videos estuvieron en tendencia en un período de tiempo como una semana, gracias a las herramientas de automatización podemos conocer esto.
 
