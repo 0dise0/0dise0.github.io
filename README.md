@@ -11,7 +11,7 @@ Con formación en el área de la salud, con conocimientos en nutrición y área 
 
 Experiencia en el uso de herramientas como SQL, Python y Tableau para transformar datos complejos en información clara, útil y accionable que respalde la toma de decisiones estratégicas. Capacidad demostrada para identificar patrones, generar informes precisos y diseñar visualizaciones efectivas que impulsen mejoras operativas y optimicen procesos. Enfoque analítico, pensamiento crítico y compromiso con la calidad de los datos y la mejora continua.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## Habilidades blandas
 
