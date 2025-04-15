@@ -30,6 +30,9 @@ Por medio de herramientas que permiten la automatización de recursos, podremos 
 
 Utilizando un tablero podemos responder preguntas importantes para nuestra agencia de mercadotecnia, como: ◦ ¿Qué categorías de videos estuvieron en tendencia más frecuentemente? ◦ ¿Cómo se distribuiron en las regiones? ◦ ¿Qué categorías fueron particularmente populares en los Estados Unidos? ¿Hubo diferencias entre las categorías populares en Estados Unidos y en otros lugares?
 
+![Texto alternativo](assets/images/tablue.png)
+
+
 Por último, si quisiéramos conocer qué categorías de videos estuvieron en tendencia en un período de tiempo como una semana, gracias a las herramientas de automatización podemos conocer esto.
 
 [Visita mi proyecto](https://github.com/0dise0/Tendencia-de-videos-Dashboard-Tableau)
