@@ -3,8 +3,8 @@
 ## Acerca de mí
 
 
-### Habilidades tecnológicas
+## Habilidades tecnológicas
 
-### Habilidades blandas
+## Habilidades blandas
 
 # Proyectos seleccionados
