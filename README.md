@@ -72,6 +72,6 @@ Una vez terminada la etapa de preparación de datos proseguimos con la etapa de 
 
 Finalmente realizamos una prueba de hipótesis para conocer si no existía alguna diferencia en la duración de los viajes realizados los días sábados cuando el clima varía ya sea con buen clima o con un clima lluvioso, al realizar la prueba obtuvimos un valor menor a p=0.05 por lo que rechazamos la hipótesis nula y podemos considerar que si existe diferencia entre la duración del tiempo de viaje en los diferentes climas. Al calcular el promedio de duración de viaje para los diferentes climas, podemos observar que en días con un buen clima se realizan en promedio 33 minutos en llegar del barrio Loop al aeropuerto, mientras que cuando hay un mal clima en promedio de tiempo, el viaje se efectúa en 40 minutos, siendo una diferencia de 7 minutos en promedio que dura más el viaje hacia el aeropuerto cuando los días tienen un mal clima. Por lo que podemos responder a nuestro objetivo principal y decir que los patrones de viaje de los pasajeros se ven afectados con las variaciones de clima, principalmente cuando hay lluvia, esto influye en la duración del viaje ya que es posible que exista inundaciones en el trayecto, accidentes o alguna otra consecuencia que afecte al tráfico de vehículos por lo que la duración en el tiempo del viaje es mayor a los climas donde no hay lluvia.
 
-
+[Visita mi proyecto](https://github.com/0dise0/Patrones-en-las-preferencias-de-los-pasajeros-para-una-empresa-de-viajes-compartidos/tree/main)
 
 
