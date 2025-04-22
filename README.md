@@ -80,4 +80,7 @@ Por lo que podemos responder a nuestro objetivo principal y decir que los patron
 
 [Visita mi proyecto](https://github.com/0dise0/Patrones-en-las-preferencias-de-los-pasajeros-para-una-empresa-de-viajes-compartidos/tree/main)
 
+Si quieres conocer mas de mi te invito a visitar mi página de [LinkedIn](www.linkedin.com/in/augusto-mérida-garcía)
+
+Y si quieres conocer sobre mis proyectos de invito a visitar [mi repositorio](https://github.com/0dise0)
 
