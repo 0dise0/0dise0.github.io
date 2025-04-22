@@ -30,8 +30,13 @@ Comunicación efectiva |
 ### Descripción
 Por medio de herramientas que permiten la automatización de recursos, podremos conocer de manera fácil y sencilla lo que nos dicen los datos, para una toma de decisiones adecuadas.
 
-Utilizando un tablero podemos responder preguntas importantes para nuestra agencia de mercadotecnia, como: ◦ ¿Qué categorías de videos estuvieron en tendencia más frecuentemente? ◦ ¿Cómo se distribuiron en las regiones? ◦ ¿Qué categorías fueron particularmente populares en los Estados Unidos? ¿Hubo diferencias entre las categorías populares en Estados Unidos y en otros lugares?
+Utilizando un tablero podemos responder preguntas importantes para nuestra agencia de mercadotecnia, como: 
+◦ ¿Qué categorías de videos estuvieron en tendencia más frecuentemente? 
+◦ ¿Cómo se distribuiron en las regiones? 
+◦ ¿Qué categorías fueron particularmente populares en los Estados Unidos? 
+◦ ¿Hubo diferencias entre las categorías populares en Estados Unidos y en otros lugares?
 
+### Visualizaciones destacadas
 ![Texto alternativo](assets/images/tablue.png)
 
 Las tres principales tendencias de forma descendente son Autos y vehículos, Comedia y Educación.
@@ -45,6 +50,7 @@ Las regiones presentes en nuestros datos como primer país liderando las tendenc
 Por último, si quisiéramos conocer qué categorías de videos estuvieron en tendencia en un período de tiempo como una semana, gracias a las herramientas de automatización podemos conocer esto.
 Como podemos observar el entretenimiento, la música, la comedia y los blogs, son categorías releventes para la mercadotecnia en la última semana de nuestros datos.
 
+### Conclusión
 Las herramientas como Tableau son fundamentales para transformar datos en información visualmente comprensible y accionable. Facilitan la creación de gráficos, paneles interactivos y análisis en tiempo real, lo que permite a las organizaciones tomar decisiones informadas basadas en datos. Además, son útiles para identificar patrones, optimizar procesos y comunicar hallazgos de manera efectiva.
 
 
