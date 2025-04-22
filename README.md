@@ -26,6 +26,7 @@ Comunicación efectiva |
 
 # Proyectos seleccionados
 
+
 ## Tendencia de videos, visualización de datos por medio de herramientas como Tableau.
 ### Descripción
 Por medio de herramientas que permiten la automatización de recursos, podremos conocer de manera fácil y sencilla lo que nos dicen los datos, para una toma de decisiones adecuadas.
@@ -54,7 +55,10 @@ Como podemos observar el entretenimiento, la música, la comedia y los blogs, so
 Las herramientas como Tableau son fundamentales para transformar datos en información visualmente comprensible y accionable. Facilitan la creación de gráficos, paneles interactivos y análisis en tiempo real, lo que permite a las organizaciones tomar decisiones informadas basadas en datos. Además, son útiles para identificar patrones, optimizar procesos y comunicar hallazgos de manera efectiva.
 
 
-Si quieres conocer más de este tema [visita mi proyecto](https://github.com/0dise0/Tendencia-de-videos-Dashboard-Tableau)
+### Si quieres conocer más de este tema [visita mi proyecto](https://github.com/0dise0/Tendencia-de-videos-Dashboard-Tableau)
+
+
+
 
 ## Análisis del comportamiento de usuarios en aplicaciones
 ### Descripción
@@ -65,7 +69,10 @@ EL objetivo principal consiste en aumentar las ventas de nuestra empresa que ven
 
 Poder crear diagramas de embudo nos permite conocer el proceso por el cual las personas pasan hasta realizar la compra y saber que porcentaje de estas se quedaron en diferentes etapas, esto nos ayuda a ver el comportamiento de los clientes.
 
-Si quieres conocer más de este tema [visita mi proyecto](https://github.com/0dise0/Comportamiento-de-usuarios-en-aplicaciones/tree/main)
+### Si quieres conocer más de este tema [visita mi proyecto](https://github.com/0dise0/Comportamiento-de-usuarios-en-aplicaciones/tree/main)
+
+
+
 
 ## Patrones en las preferencias de los pasajeros para una empresa de viajes compartidos
 ### Descripción
@@ -92,11 +99,11 @@ Finalmente realizamos una prueba de hipótesis para conocer si no existía algun
 ### Conclusión
 Por lo que podemos responder a nuestro objetivo principal y decir que los patrones de viaje de los pasajeros se ven afectados con las variaciones de clima, principalmente cuando hay lluvia, esto influye en la duración del viaje ya que es posible que exista inundaciones en el trayecto, accidentes o alguna otra consecuencia que afecte al tráfico de vehículos por lo que la duración en el tiempo del viaje es mayor a los climas donde no hay lluvia.
 
-Si quieres conocer más de este tema [visita mi proyecto](https://github.com/0dise0/Patrones-en-las-preferencias-de-los-pasajeros-para-una-empresa-de-viajes-compartidos/tree/main)
+### Si quieres conocer más de este tema [visita mi proyecto](https://github.com/0dise0/Patrones-en-las-preferencias-de-los-pasajeros-para-una-empresa-de-viajes-compartidos/tree/main)
 
 
 
-Si quieres conocer mas de mi te invito a visitar mi página de [LinkedIn](www.linkedin.com/in/augusto-mérida-garcía)
+### Si quieres conocer mas de mi te invito a visitar mi página de [LinkedIn](www.linkedin.com/in/augusto-mérida-garcía)
 
-Y si quieres conocer sobre mis proyectos de invito a visitar [mi repositorio](https://github.com/0dise0)
+### Y si quieres conocer sobre mis proyectos de invito a visitar [mi repositorio](https://github.com/0dise0)
 
