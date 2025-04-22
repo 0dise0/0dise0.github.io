@@ -90,7 +90,7 @@ ExpId: número de experimento: 246 y 247 son los grupos de control, 248 es el gr
 
 Poder crear diagramas de embudo nos permite conocer el proceso por el cual las personas pasan hasta realizar la compra y saber que porcentaje de estas se quedaron en diferentes etapas, esto nos ayuda a ver el comportamiento de los clientes.
 
-## Conclución general
+## Conclusión
 Nuestro objetivo principal consistió en aumentar las ventas para nuestra empresa que vende productos alimenticios, una de las formas para realizar esto fue realizar un test A/A/B para comparar los cambios realizados en la aplicación donde se realizan las compras, de esta forma podremos comprobar si los cambios realizados tuvieron un valor significativo en las ventas o si los cambios realizados no afectaron positivamente en estas.
 Una vez que agrupamos a los usuarios para cada evento en nuestros datos, estudiamos el embudo de eventos por los que los usuarios pasaron para realizar una compra exitosa, de igual forma calculamos el porcentaje de conversión y la tasa de pérdida de usuarios para cada evento en su secuencia, como pudimos observar en la etapa de pantalla principal a la de ofertas es donde perdemos más usuarios con un 38% de pérdida, del 100% de los usuarios solo el 48% completa una compra exitosa.
 
