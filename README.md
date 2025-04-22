@@ -64,21 +64,31 @@ Poder crear diagramas de embudo nos permite conocer el proceso por el cual las p
 ## Patrones en las preferencias de los pasajeros para una empresa de viajes compartidos
 ### Descripción
 
-El objetivo principal del proyecto es analizar patrones con la información disponible para comprender cómo los factores externos como el clima, impacta en las preferencias de los pasajeros para el año 2017 y meses de noviembre. Iniciamos con la importación de librerías para poder explorar los datos que disponemos, buscando que los valores sean los adecuados para las columnas, buscando valores duplicados, nulos y de ser necesario crear nuevas variables a partir de los datos para poder profundizar en el análisis. Una vez que terminamos con la corrección de nuestros datos podemos empezar con el análisis de nuestros datos agrupando variables para poder crear gráficas, al igual que podemos filtrar información para obtener información más precisa sobre nuestras variables. Después de analizar nuestros datos podremos obtener conclusiones útiles que nos permitirán alcanzar nuestro objetivo.
+El objetivo principal del proyecto es analizar patrones con la información disponible para comprender cómo los factores externos como el clima, impacta en las preferencias de los pasajeros para el año 2017 y meses de noviembre. 
+
+### Metodología
+Iniciamos con la importación de librerías para poder explorar los datos que disponemos, buscando que los valores sean los adecuados para las columnas, buscando valores duplicados, nulos y de ser necesario crear nuevas variables a partir de los datos para poder profundizar en el análisis. Una vez que terminamos con la corrección de nuestros datos podemos empezar con el análisis de nuestros datos agrupando variables para poder crear gráficas, al igual que podemos filtrar información para obtener información más precisa sobre nuestras variables. Después de analizar nuestros datos podremos obtener conclusiones útiles que nos permitirán alcanzar nuestro objetivo.
 
 ![Texto alternativo](assets/images/barrios.PNG)
 
-Una vez terminada la etapa de preparación de datos proseguimos con la etapa de análisis de datos, donde identificamos los diez principales barrios que donde finalizan los viajes. Los barrios de Chicago que en promedio tiene más viajes terminados es el barrio de Loop, seguido de River North en segundo lugar, Streeterville en tercero, West Loop en cuarto lugar y en quinto el barrio de O´Hare donde se encuentra localizado el Aeropuerto Internacional, considerando estos barrios como los más comunes en completar los recorridos de 94 barrios registrados en nuestros datos. 
+Una vez terminada la etapa de preparación de datos proseguimos con la etapa de análisis de datos, donde identificamos los diez principales barrios que donde finalizan los viajes. 
 
-Para visibilizar esta información elaboramos un gráfico de barras para mostrar de forma visual los barrios con más viajes como destino. Además identificamos las diez empresas competidoras con un mayor conteo de viajes realizados, la empresas con mayor cantidad de viajes realizados es 'Flash Cab' con un total de 19,558 viajes realizados, en segundo lugar la empresa 'Taxi Affiliation Services' con 11,422 viajes realizados representando un poco más de la mitad de la primer empresa, en tercer lugar 'Medallion' Leasing con 10,367 y en cuarto lugar 'Yellow Cab' con 9,888 viajes. Los demás lugares tienen menos de la mitad de los viajes realizados por la empresa que está en primer puesto en cantidad de viajes realizados. De igual forma que el análisis anterior, realizamos un gráfico de barras para visibilizar el conteo de los viajes de las empresas competidoras.
+Los barrios de Chicago que en promedio tiene más viajes terminados es el barrio de Loop, seguido de River North en segundo lugar, Streeterville en tercero, West Loop en cuarto lugar y en quinto el barrio de O´Hare donde se encuentra localizado el Aeropuerto Internacional, considerando estos barrios como los más comunes en completar los recorridos de 94 barrios registrados en nuestros datos. 
+
+Para visibilizar esta información elaboramos un gráfico de barras para mostrar de forma visual los barrios con más viajes como destino. Además identificamos las diez empresas competidoras con un mayor conteo de viajes realizados, la empresas con mayor cantidad de viajes realizados es 'Flash Cab' con un total de 19,558 viajes realizados, en segundo lugar la empresa 'Taxi Affiliation Services' con 11,422 viajes realizados representando un poco más de la mitad de la primer empresa, en tercer lugar 'Medallion' Leasing con 10,367 y en cuarto lugar 'Yellow Cab' con 9,888 viajes. 
+
+Los demás lugares tienen menos de la mitad de los viajes realizados por la empresa que está en primer puesto en cantidad de viajes realizados. De igual forma que el análisis anterior, realizamos un gráfico de barras para visibilizar el conteo de los viajes de las empresas competidoras.
 
 ![Texto alternativo](assets/images/compa.PNG)
 
 Finalmente realizamos una prueba de hipótesis para conocer si no existía alguna diferencia en la duración de los viajes realizados los días sábados cuando el clima varía ya sea con buen clima o con un clima lluvioso, al realizar la prueba obtuvimos un valor menor a p=0.05 por lo que rechazamos la hipótesis nula y podemos considerar que si existe diferencia entre la duración del tiempo de viaje en los diferentes climas. Al calcular el promedio de duración de viaje para los diferentes climas, podemos observar que en días con un buen clima se realizan en promedio 33 minutos en llegar del barrio Loop al aeropuerto, mientras que cuando hay un mal clima en promedio de tiempo, el viaje se efectúa en 40 minutos, siendo una diferencia de 7 minutos en promedio que dura más el viaje hacia el aeropuerto cuando los días tienen un mal clima. 
 
+### Conclusión
 Por lo que podemos responder a nuestro objetivo principal y decir que los patrones de viaje de los pasajeros se ven afectados con las variaciones de clima, principalmente cuando hay lluvia, esto influye en la duración del viaje ya que es posible que exista inundaciones en el trayecto, accidentes o alguna otra consecuencia que afecte al tráfico de vehículos por lo que la duración en el tiempo del viaje es mayor a los climas donde no hay lluvia.
 
 [Visita mi proyecto](https://github.com/0dise0/Patrones-en-las-preferencias-de-los-pasajeros-para-una-empresa-de-viajes-compartidos/tree/main)
+
+
 
 Si quieres conocer mas de mi te invito a visitar mi página de [LinkedIn](www.linkedin.com/in/augusto-mérida-garcía)
 
