@@ -107,6 +107,8 @@ El objetivo principal del proyecto es analizar patrones con la información disp
 ### Metodología
 Iniciamos con la importación de librerías para poder explorar los datos que disponemos, buscando que los valores sean los adecuados para las columnas, buscando valores duplicados, nulos y de ser necesario crear nuevas variables a partir de los datos para poder profundizar en el análisis. Una vez que terminamos con la corrección de nuestros datos podemos empezar con el análisis de nuestros datos agrupando variables para poder crear gráficas, al igual que podemos filtrar información para obtener información más precisa sobre nuestras variables. Después de analizar nuestros datos podremos obtener conclusiones útiles que nos permitirán alcanzar nuestro objetivo.
 
+### Visualizaciones destacadas
+
 ![Texto alternativo](assets/images/barrios.PNG)
 
 Una vez terminada la etapa de preparación de datos proseguimos con la etapa de análisis de datos, donde identificamos los diez principales barrios que donde finalizan los viajes. 
